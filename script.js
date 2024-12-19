@@ -27,7 +27,7 @@
             d = 201 <= d ? 0 : d
         )
     }
-    MorphSVGPlugin.convertToPath("polygon");
+    // MorphSVGPlugin.convertToPath("polygon");
     document.querySelector(".pContainer");
     var u = document.querySelector(".mainSVG");
     document.querySelector("#star");
